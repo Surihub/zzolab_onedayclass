@@ -1,0 +1,9 @@
+streamlit
+st-gsheets-connection
+koreanize-matplotlib
+python-docx
+pillow
+numpy
+pandas
+matplotlib
+datetime
